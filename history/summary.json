@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/roblox.com.ico",
     "slug": "roblox-site",
     "status": "up",
-    "uptime": "66.38%",
-    "uptimeDay": "66.38%",
-    "uptimeWeek": "66.38%",
-    "uptimeMonth": "66.38%",
-    "uptimeYear": "66.38%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 717,
     "timeDay": 717,
     "timeWeek": 717,
     "timeMonth": 717,
     "timeYear": 717,
-    "dailyMinutesDown": {
-      "2023-08-10": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Roblox Devforum",
