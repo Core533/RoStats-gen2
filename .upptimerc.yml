@@ -4,7 +4,7 @@ repo: RoStats-gen2 # The name of this repository
 
 sites:
   - name: Roblox Site
-    url: https://sdfgosjlhdfgsdfjkhlglkjhsdfgjhklsdfkjhlgkljhsdfgkljh.com/
+    url: https://roblox.com/
     maxResponseTime: 1000
     
   - name: Roblox Devforum
