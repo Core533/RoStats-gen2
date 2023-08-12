@@ -364,18 +364,20 @@
     "url": "https://thumbnails.roblox.com/v1/assets?assetIds=82738847&format=Png&isCircular=false&size=30x30",
     "icon": "https://icons.duckduckgo.com/ip3/thumbnails.roblox.com.ico",
     "slug": "thumbnails-api-endpoint",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 683,
-    "timeDay": 671,
-    "timeWeek": 683,
-    "timeMonth": 683,
-    "timeYear": 683,
-    "dailyMinutesDown": {}
+    "time": 758,
+    "timeDay": 943,
+    "timeWeek": 758,
+    "timeMonth": 758,
+    "timeYear": 758,
+    "dailyMinutesDown": {
+      "2023-08-12": 0
+    }
   },
   {
     "name": "Users API Endpoint",
