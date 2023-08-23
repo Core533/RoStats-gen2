@@ -366,19 +366,19 @@
     "url": "https://thumbnails.roblox.com/v1/assets?assetIds=82738847&format=Png&isCircular=false&size=30x30",
     "icon": "https://icons.duckduckgo.com/ip3/thumbnails.roblox.com.ico",
     "slug": "thumbnails-api-endpoint",
-    "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1118,
-    "timeDay": 1507,
-    "timeWeek": 1420,
-    "timeMonth": 1118,
-    "timeYear": 1118,
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
+    "time": 1106,
+    "timeDay": 1264,
+    "timeWeek": 1382,
+    "timeMonth": 1106,
+    "timeYear": 1106,
     "dailyMinutesDown": {
-      "2023-08-23": 0
+      "2023-08-23": 9
     }
   },
   {
