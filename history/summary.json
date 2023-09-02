@@ -189,19 +189,19 @@
     "url": "https://catalog.roblox.com/v1/bundles/details?bundleIds=192",
     "icon": "https://icons.duckduckgo.com/ip3/catalog.roblox.com.ico",
     "slug": "catalog-api-endpoint",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 687,
-    "timeDay": 749,
-    "timeWeek": 681,
+    "timeDay": 733,
+    "timeWeek": 683,
     "timeMonth": 687,
     "timeYear": 687,
     "dailyMinutesDown": {
-      "2023-09-02": 0
+      "2023-09-02": 9
     }
   },
   {
