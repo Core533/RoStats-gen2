@@ -51,8 +51,8 @@
     "slug": "roblox-devhub",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 353,
@@ -60,9 +60,7 @@
     "timeWeek": 530,
     "timeMonth": 421,
     "timeYear": 353,
-    "dailyMinutesDown": {
-      "2023-10-26": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Account Information API",
